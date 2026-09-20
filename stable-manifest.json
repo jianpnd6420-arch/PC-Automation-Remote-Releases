@@ -1,11 +1,11 @@
 {
   "status": "OK",
-  "version_code": 117,
-  "version_name": "1.1.0",
+  "version_code": 118,
+  "version_name": "1.1.1",
   "channel": "stable-approval",
   "package_name": "io.pcautomation.remote",
-  "apk_url": "https://github.com/jianpnd6420-arch/PC-Automation-Remote-Releases/releases/download/stable-1.1.0/PC-Automation-Remote-1.1.0-unified.apk",
-  "sha256": "902316c46542ca688c218c569fbff646dbb821117414897dd8df92848f4c86bc",
+  "apk_url": "https://github.com/jianpnd6420-arch/PC-Automation-Remote-Releases/releases/download/stable-1.1.1/PC-Automation-Remote-1.1.1-unified.apk",
+  "sha256": "6d094d0c5db54b8f4b90a4bec680249a2db84cb83f8bcd1f0c4ccf5840602176",
   "signer_sha256": "3bd96c82df18db70f9592499ea64f8dffa18fe54e9d26d9b27c7059df7d9bf86",
   "protocol_major": 1,
   "file_size": 49534920
