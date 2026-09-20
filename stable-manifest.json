@@ -1,12 +1,12 @@
 {
   "status": "OK",
-  "version_code": 116,
-  "version_name": "1.0.3",
+  "version_code": 117,
+  "version_name": "1.1.0",
   "channel": "stable-approval",
   "package_name": "io.pcautomation.remote",
-  "apk_url": "https://github.com/jianpnd6420-arch/PC-Automation-Remote-Releases/releases/download/vnext-2.0.5/PC-Automation-Remote-1.0.3-direct-release.apk",
-  "sha256": "706903dab6ac761798cbfc593cf4e735060eeed82a7e1054a49cbe65e7d88d31",
+  "apk_url": "https://github.com/jianpnd6420-arch/PC-Automation-Remote-Releases/releases/download/stable-1.1.0/PC-Automation-Remote-1.1.0-unified.apk",
+  "sha256": "902316c46542ca688c218c569fbff646dbb821117414897dd8df92848f4c86bc",
   "signer_sha256": "3bd96c82df18db70f9592499ea64f8dffa18fe54e9d26d9b27c7059df7d9bf86",
   "protocol_major": 1,
-  "file_size": 49354692
+  "file_size": 49534920
 }
